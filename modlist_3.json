@@ -1,7 +1,36 @@
-
-{
+{ 
   "Mods": [
-     {
+{
+		"Name": "Simple UI Gauge Mod",
+		 "Version": "1.0",
+		 "Author": "xspeedasx",
+		 "Description": "This mod adds an analog UI gauge, similar to BeamNG drive and other games.\nIt is only visible when player is sitting in a car (inside and exterior cameras)\n\n it was not tested in multiplayers, so keep expectations low \n\n* Left gauge is fuel (fluid in the tank), \n* Right is temperature (C is 50C/122F, H is 130C/266F)\n* Big gauge is RPM (it shows a little bit more than engine's max RPM capability)\n* The numbers are Speed (km/h) in the top and Gear in the bottom\n* Icons are: left - handbrake, right - lights",
+		 "Date": "5/05/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/gauge.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/gauge.png",
+		 "FileName": "SimpleUIGaugeMod.dll"
+     },
+{
+		"Name": "Electric Motors Mod ",
+		 "Version": "1.1",
+		 "Author": "xspeedasx",
+		 "Description": "This mod adds electric motors to The Long Drive that can be mounted to any vehicle instead of internal combustion engines.\n\nSome useful information:\n* There are 5 performance variants, revving from 10,000 (cyan) to 20,000 rpm (red)!\n* Its not required, but advisable to add water to both radiator and fuel tank to cool the motor.\n* Vehicles won't use any gas, oil or diesel, but there must be something in the tank due to TLD limitations (Genesz pls fix).Changelog:\n-Added compatibility with the VeeAyteEnjin a.k.a. Serena's V8\n- Improved compatibility with the RUNDENautomatic mod - allows motors to have multiple gears when car is automatic.\n- Gave more juice to BUS (400%), IFA (400%) and Fury (150%), but also more heat gain - it's still quite unbalanced and needs more tweaking\n- Removed unnecessary shameful code left over from weeks of debugging\n\n* tip: To go forwards in automatic, first set gear lever to R position, reach ~20km/h in reverse and start mashing gears all the way from P to 1 and back few times, until it locks into 1, then choose D and accelerate. ",
+		 "Date": "3/05/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/electric.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/electric.png",
+		 "FileName": "ElectricMotorMod.dll"
+     },
+{
+		"Name": "BeanMG.drive Caravan Mod!",
+		 "Version": "2.2",
+		 "Author": "RUNDEN",
+		 "Description": "This mod adds the caravan from BeamNG into the game :)\n\nThere is a bug where caravans that spawn with wheels may disappear when you load! Look for caravans that spawn without wheels\n\nNew in version 2.2:\n- Caravans have conditions\n- Can now be repaired with wire brush\n- There is interior noise dampening when inside the caravan\n- Caravan interior is physlocked if you have the physlock mod\n- The trailer hitch stand thing now works and can be used to lock the trailer in place\n- You can actually sit and sleep in the seats!\n- The table has collisions for props\n- Working water taps !\n- More opening panels\n- Randomised parts (some caravans don't have AC or don't have the flap on the front)\n- The caravan can be broken! (It'll fall to a billion pieces if you crash insanely hard)",
+		 "Date": "3/05/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/caravan.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/caravan.png",
+		 "FileName": "BEAMNG_CARAVAN.dll"
+     },
+{
 		"Name": "SpawnerTLD Pause Menu",
 		 "Version": "4.5",
 		 "Author": "FreakShow",
@@ -9,13 +38,13 @@
 		 "Date": "19/03/2022",
 		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/spawneresc.dll",
 		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/spawneresc.png",
-		 "FileName": "SpawnerTLDESC.dll"
+		 "FileName": "SpawnerTLD.dll"
      },
 {
 		"Name": "Eternal day time",
 		 "Version": "1.0",
 		 "Author": "Zorkind",
-		 "Description": "imagine the planet stopped spinning and that caused the apocalypses heheh or whatever",
+		 "Description": "imagine the planet stopped spinning and that caused the apocalypses heheh or whatever\n\nMight spawn 99999 UFO's or something. Have fun! Its a bug\n\n If its still turns night, reload your save. Its a bug too",
 		 "Date": "11/03/2022",
 		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/daycycle.dll",
 		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/daycycle.png",
@@ -23,19 +52,19 @@
      },
 {
 		"Name": "Diesel V8 Engine",
-		 "Version": "1.0.1",
-		 "Author": "NICULL",
-		 "Description": "The Diesel V8 mod, is an edit of the diesel cars mod by Ghaleas and Runden.\n I was given permission by them to use some of the code to make this diesel version of the brand new V8 in the game.\n\n-It idles at 700 rpm and it maxes out at 5250 rpm with a top speed of 170 - 185 kmh\n-If you use it in the ifa truck it can go up to 215 kmh \n-Increased oil capacity to 7.5L\n-Increased oil consumption\n\nCurrently it does not more torque than the gas engine because i don't know how to do that yet but maybe in a later update.",
+		 "Version": "1.3.2",
+		 "Author": "NICULL /Thanks to xspeedasx",
+		 "Description": "The Diesel V8 mod, is an edit of the diesel cars mod by Ghaleas and Runden.\n I was given permission by them to use some of the code to make this diesel version of the brand new V8 in the game.\n\n-It idles at 700 rpm and it maxes out at 5250 rpm with a top speed of 170 - 185 kmh\n-If you use it in the ifa truck it can go up to 215 kmh \n-Increased oil capacity to 7.5L\n-Increased oil consumption\n\nCurrently it does not more torque than the gas engine because i don't know how to do that yet but maybe in a later update.\n\n1.3.1 version Changelog:\n-Fixed loading save bug, no longer converts your gas engine to this diesel one.\n-Updated colors, it's slightly lighter now with more.. chrome.\n-Completely different torquecurve compared to the gas fury engine\n-7.5L Oil capacity\n-850Nm of torque at 3000Rpm!",
 		 "Date": "6/03/2022",
 		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/dieselv8.dll",
 		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/dieselv8.png",
 		 "FileName": "NICULL_DIESEL_V8.dll"
      },
 {
-		"Name": "Realisitc fuel consumption",
-		 "Version": "1.0",
-		 "Author": "NICULL",
-		 "Description": "This mod does not increase or decrease the animal or food spawns (yet), neither the amount of fuel that spawns. It only changes the fuel, oil and soon to come water consumption of all vehicles (except modded engines).\n\nThis is version 1.0 of the mod.\n\n-The starting chance of all vehicles is halved\n-Gas engines consume 30x more fuel than default\n-Diesel engines consume 25x more fuel than default\n-All engines use 15x more oil now.\n(I absolutely recommend you use the fuel gauges mod with this since trust me you will be looking at them more often now)\n\n(NOTE: the trabant, bus and ifa truck will all get their own fuel consumption in the future, for now its based off fluids not engines. However you should be able to reach atleast 2 gas stations with any starter car before running out of fuel.)",
+		"Name": "Hardcore Mod",
+		 "Version": "1.4.7",
+		 "Author": "NICULL & RUNDEN",
+		 "Description": "Changelog:\n-Gas, diesel, oil consumption is increased. (Diesel is still more efficient than gas but not as much)\n-Water Consumption is increased by 5x\n-Radiators are 30% less efficient\n-You can now loose gears if you don't shift properly\n-Street lights spawn on random sides of the road, some are leaning and some flicker.\n-Every fluid you spawn with, even you hunger and health is now halved at the start of the game\n-Maximum operating temperatures of engines is now 125 Degrees Celsius (or 257 fahrenheit)\n-Starting chance of cars is lowered\n-Fixed losing fluids really fast bug",
 		 "Date": "4/03/2022",
 		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/hc1.dll",
 		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/hc1.png",
@@ -203,9 +232,9 @@
      },
                   {
 		"Name": "Diesel Swap Mod",
-		 "Version": "1.1.1",
-		 "Author": "Ghaleas, Runden",
-		 "Description": "Dacia and Lada Riva can now spawn diesel engines. These can also be found in the wild (they have more power and less RPMs)",
+		 "Version": "1.2.2",
+		 "Author": "Ghaleas, Runden,NICULL",
+		 "Description": "Dacia and Lada Riva can now spawn diesel engines. These can also be found in the wild (they have more power and less RPMs)\n\n1.2 version Changelog:\n- Fixed loading save bug, no longer converts your gas engine to this diesel one.\n-Fixed the bug where they used the default torque of the gas engines. (Ghaleas used maxNm instead of torqueCurve)\n-Diesel 2105 engine now has 135Nm of torque at 4000Rpm.\n-Diesel Dacia engine now has 105nm of torque at 4500Rpm. (which is what Ghaleas originally intended)\n-Updated colors, dacia engine is slightly lighter and 2105 engine is slightly darker.\n\nBig thanks to xspeedasx for helping with the code and Ghaleas for allowing me to continue his work!",
 		 "Date": "28/03/2021",
 		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Diesel_Cars_Mod.dll",
 		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/diesel.png",
@@ -255,7 +284,7 @@
 
            {
 		"Name": "Turbo Mod",
-		 "Version": "1.6",
+		 "Version": "1.6t",
 		 "Author": "RUNDEN",
 		 "Description": "Adds turbochargers as loot from buildings, which you can mount to any engine, and get a nice power boost! USE MANUAL, AUTO SHIFT DOESN'T REV ENOUGH.",
 		 "Date": "9/02/2021",
