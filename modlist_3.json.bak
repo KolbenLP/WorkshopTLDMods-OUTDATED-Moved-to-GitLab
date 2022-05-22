@@ -1,0 +1,459 @@
+{ 
+  "Mods": [
+    {
+		"Name": "SpawnerTLD Pause Menu",
+		 "Version": "4.5",
+		 "Author": "FreakShow",
+		 "Description": "You can spawn cars anywhere \nFirst mod with GUI \n\"Distance driven\" must be over 1000km then mod start working\n\nShows up in the ESC Menu",
+		 "Date": "19/03/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/spawneresc.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/spawneresc.png",
+		 "FileName": "SpawnerTLDESC.dll"
+     },
+{
+		"Name": "Eternal day time",
+		 "Version": "1.0",
+		 "Author": "Zorkind",
+		 "Description": "imagine the planet stopped spinning and that caused the apocalypses heheh or whatever",
+		 "Date": "11/03/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/daycycle.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/daycycle.png",
+		 "FileName": "ETERNALDAY_ZORKIND.dll"
+     },
+{
+		"Name": "Diesel V8 Engine",
+		 "Version": "1.1.0",
+		 "Author": "NICULL /Thanks to xspeedasx",
+		 "Description": "The Diesel V8 mod, is an edit of the diesel cars mod by Ghaleas and Runden.\n I was given permission by them to use some of the code to make this diesel version of the brand new V8 in the game.\n\n-It idles at 700 rpm and it maxes out at 5250 rpm with a top speed of 170 - 185 kmh\n-If you use it in the ifa truck it can go up to 215 kmh \n-Increased oil capacity to 7.5L\n-Increased oil consumption\n\nCurrently it does not more torque than the gas engine because i don't know how to do that yet but maybe in a later update.",
+		 "Date": "6/03/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/dieselv8.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/dieselv8.png",
+		 "FileName": "NICULL_DIESEL_V8.dll"
+     },
+{
+		"Name": "Realisitc fuel consumption",
+		 "Version": "1.1",
+		 "Author": "NICULL",
+		 "Description": "This mod does not increase or decrease the animal or food spawns (yet), neither the amount of fuel that spawns. It only changes the fuel, oil and soon to come water consumption of all vehicles (except modded engines).\n\nThis is version 1.0 of the mod.\n\n-The starting chance of all vehicles is halved\n-Gas engines consume 30x more fuel than default\n-Diesel engines consume 25x more fuel than default\n-All engines use 15x more oil now.\n(I absolutely recommend you use the fuel gauges mod with this since trust me you will be looking at them more often now)\n\n(NOTE: the trabant, bus and ifa truck will all get their own fuel consumption in the future, for now its based off fluids not engines. However you should be able to reach atleast 2 gas stations with any starter car before running out of fuel.)\n \nV1.1:\- Lowered starting chance for cars\n- Adjusted consumption for the new update, also a bit more balanced.",
+		 "Date": "4/03/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/hc1.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/hc1.png",
+		 "FileName": "NICULL_HARDCORE_MOD.dll"
+     },
+{
+		"Name": "Spoilers for Golf",
+		 "Version": "1.0",
+		 "Author": "NICULL",
+		 "Description": "Self explaining.\n\nAdds nice spoilers for the Golf!\n\nunlike popular belief no it does not add 42069 horsepower. It's just the dacia spoiler on the golf hatch trunk.",
+		 "Date": "4/03/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/golfsp.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/golfsp.png",
+		 "FileName": "NICULL_GOLFSPOILER_MOD.dll"
+     },
+{
+		"Name": "Dacia 1300 Break",
+		 "Version": "1.0",
+		 "Author": "Tumpy_Noodles / RUNDEN",
+		 "Description": "Dacia Kombi/Wagon!!!! v1.0\nShares parts with normal Dacia except trunk. \nAvailable in automatic and RHD with manuals being a 5 speed. \nRear seat is completely removable and it will snap in the right spot when placed near it by just letting go.  \n\nKnown Issues:\n1. Newly spawned Dacias and Dacia Kombis such as starting car, ai cars, and spawner cars might have the wrong trunk attached. It should be fixed by saving and loading. Naturally spawning cars shouldn't do this.\n2. License plate will rotate downward when reloaded. You can unattach it and reattach it to correct it.\n3. The car will sometimes clip into the ground and suddenly stop, registering as a crash. The normal Dacia does this and is a problem with the base game. The Dacia Kombi has some steps done to mitigate this but it will still happen on rough terrain.\n4. Baskets and possibly other things attached to the back seat will coerge towards the middle of the seat. This is a byproduct of the seat being removeable.",
+		 "Date": "24/02/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/daciabreak.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/daciabreak.png",
+		 "FileName": "Dacia1300Break.dll"
+     },
+{
+		"Name": "Updated Iron sights Mod",
+		 "Version": "1.1",
+		 "Author": "RUNDEN",
+		 "Description": "This is the version of the mod that works in the current version game version. \nThis update was posted by Runden, the original author is not in the server anymore.",
+		 "Date": "6/01/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/iron.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/iron.png",
+		 "FileName": "IRON_SIGHTS_MOD.dll"
+     },
+         {
+		"Name": "V8 Gas Engine",
+		 "Version": "1.4aR",
+		 "Author": "Serena",
+		 "Description": "A powerful V8 engine that comes in varying sizes, from 4.6L to 7.2L! Bigger engine = more power, but also more fuel consumption.\n\nImportant notes:\nYou'll have a 25% chance to find this engine as a Lada 2101/2102 engine replacement, so it's a bit rare.\nTurbo's can work but may actually make the engine perform worse, use at your own risk!\n\nSound volume now conforms to the ingame slider and turbo's no longer become ",
+		 "Date": "6/01/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/V8_V1.2.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/v8.png",
+		 "FileName": "SERENA_V8ENGINE.dll"
+     },
+           {
+		"Name": "Extra foods mod",
+		 "Version": "1.4",
+		 "Author": "RUNDEN",
+		 "Description": "Silly mod which adds a bunch more food items to the game which you can eat!",
+		 "Date": "5/11/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenExtraFoodMod.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/foodmod.png",
+		 "FileName": "RundenExtraFoodMod.dll"
+     },
+         {
+		"Name": "Exploding Cacti In TLD",
+		 "Version": "1.1",
+		 "Author": "coolgamer553",
+		 "Description": "When Crashing Into Cacti They Now Explode, Its Pretty Self Explaining, Just Crash Into Cacti See What Happens!",
+		 "Date": "26/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/coolgamer553_exploding_cacti.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/excac.png",
+		 "FileName": "coolgamer553_exploding_cacti.dll"
+     },
+         {
+		"Name": "Custom AutoSave Interavall",
+		 "Version": "2.0",
+		 "Author": "KolbenLP",
+		 "Description": "You can set an custom Autosave Interval, by opening the GUI with F8! The GUI is pretty self explaining. Press - to lower the interval, press + to higher it. Press Save to Save the interval, so its the same if you restart the game. \n\nPress F6 to Trigger an Autosave automatically. \nNOTE: Autosave has to be enabled in the Settings in order for it to work!",
+		 "Date": "23/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/CustomAutosaveIntervall.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/quicksave.png",
+		 "FileName": "CustomAutosaveIntervall.dll"
+     },
+        {
+		"Name": "Additional Rims",
+		 "Version": "1.2",
+		 "Author": "Serena",
+		 "Description": "This mod adds 9 new car rims, bringing the total of car rims to choose from to 10, it also adds 2 new bus/truck rims made to be used together, shallow for the front axle, deep for the rear axle! They spawn mostly random, so finding a full set of desired rims could become a fun little scavenger hunt! ",
+		 "Date": "14/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Serenas_Additional_Rims_V1.2.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/rims.png",
+		 "FileName": "SERENA_RIMS_MOD.dll"
+     },
+      {
+		"Name": "Hyperzine 2.0",
+		 "Version": "2.1.0",
+		 "Author": "KolbenLP",
+		 "Description": "Pour this light blue liquid in your Gas/Diesel Tank, ca. 30% Hyperzine 2.0 and the rest Diesel or Gas. Your Car will run much faster now (ca. 250kmh+)! Beware tho. if you pour too much of it in the gas tank, the car will have no idle and runs not so good.\nYou will find a big barrel of hyperzine in your basement in the starter house. And it will also spawn naturally.\nOriginal mod by Splendid",
+		 "Date": "11/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Hyperzine_2.0.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/hyperzine2.png",
+		 "FileName": "Hyperzine_2.0.dll"
+     },
+     {
+		"Name": "Physlock For All Cars",
+		 "Version": "1.0",
+		 "Author": "Serena",
+		 "Description": "Car interiors, including trunks and the pickup bed, will now have the physics lock functionality applied to them! This effect only applies to CARS, so the IFA and the buses are excluded.\nNote that it may sometimes lock items on the exterior of some of the vehicles as well due to technical limitations.",
+		 "Date": "10/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/SERENA_CARPHYSLOCK.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/allphyslock.png",
+		 "FileName": "SERENA_CARPHYSLOCK.dll"
+     },
+     {
+		"Name": "Gutted Ikarus",
+		 "Version": "1.0",
+		 "Author": "Serena",
+		 "Description": "This removes the whole interior of the Ikarus 260 & 280 buses and adds physlock to the entire interior space, allowing you to store or build whatever you want inside of the buses without it being able to move!\nDue to how this mod was made, the button under the front bumper is now invisible, but it is still there and can still be used to open the door. ",
+		 "Date": "03/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/SERENA_GUTTED_IKARUS.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/guttedikarus.png",
+		 "FileName": "SERENA_GUTTED_IKARUS.dll"
+     },
+     {
+		"Name": "Randomly Sized Baskets",
+		 "Version": "1.0",
+		 "Author": "Serena",
+		 "Description": "This changes the baskets to spawn at a random size, from tiny to IFA flatbed sized! Carry large amounts of items with ease on any car! Note that this random size means the Ebatta will no longer spawn with a basket attached. ",
+		 "Date": "01/10/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/SERENA_BASKET_RESIZE.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/baskets.png",
+		 "FileName": "SERENA_BASKET_RESIZE.dll"
+     },
+     {
+		"Name": "AI Traffic",
+		 "Version": "49.33e",
+		 "Author": "RUNDEN",
+		 "Description": "It's the two way traffic update, get ready for head on collisions\n\nAdds other cars as traffic on the roads, who drive along with you! You can adjust the spawn rate in the settings menu, or press F11 to force an AI car to spawn",
+		 "Date": "22/02/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RUNDEN_AI.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/traffic.png",
+		 "FileName": "RUNDEN_AI.dll"
+     },
+     {
+		"Name": "DropCamTweak",
+		 "Version": "1.0",
+		 "Author": "user-m89o8bivor",
+		 "Description": "DropCam is a \"Hidden Camera\" that initially spawns exactly where your in-game camera is. This mod tweaks the way it behaves depending on which keys you hold before enabling it",
+		 "Date": "13/06/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/DropCamTweak.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/dropcam.png",
+		 "FileName": "DropCamTweak.dll"
+     },
+     {
+		"Name": "Physics Lock for IFA",
+		 "Version": "1.8",
+		 "Author": "Rostik",
+		 "Description": "Uses the basket's physics lock on the katona variant of the IFA. Items inside will stay in place now :)",
+		 "Date": "22/07/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Rostik_Katona_Mod.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/rostik.png",
+		 "FileName": "Rostik_Katona_Mod.dll"
+     },
+                    {
+		"Name": "Random Horn",
+		 "Version": "1.0",
+		 "Author": "Ghaleas",
+		 "Description": "Randomises the horns in all cars",
+		 "Date": "21/04/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/GHALEAS_RANDOM_HORN.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/horny.png",
+		 "FileName": "GHALEAS_RANDOM_HORN.dll"
+     },
+                  {
+		"Name": "Diesel Swap Mod",
+		 "Version": "1.2.0",
+		 "Author": "Ghaleas, Runden, /thanks to xspeedasx",
+		 "Description": "Dacia and Lada Riva can now spawn diesel engines. These can also be found in the wild (they have more power and less RPMs)",
+		 "Date": "28/03/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Diesel_Cars_Mod.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/diesel.png",
+		 "FileName": "Diesel_Cars_Mod.dll"
+     },
+              {
+		"Name": "Radiator slot for Trabant",
+		 "Version": "1.78",
+		 "Author": "RUNDEN",
+		 "Description": "This mod adds a functioning radiator slot to the trabant! Put a radiator where the front bumper would go. The radiator is held on by glue, it will fall off easy!",
+		 "Date": "17/03/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RUNDENtrabantRadiator.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/radtrab.png",
+		 "FileName": "RUNDENtrabantRadiator.dll"
+     },
+
+              {
+		"Name": "Tire Wear",
+		 "Version": "1.8",
+		 "Author": "RUNDEN",
+		 "Description": "This mod makes your wheels wear down as you drive along, doing burnouts and skidding sideways will tear up your wheels until they pop!\n\nMake sure to bring a spare tire!!\n\nUpdate to Tire Wear mod, updated to version 1.8 :)\nNow tyres will no longer get worn by being in the air\nLarge bus/truck tyres get worn more slowly and are much more usable\nwhen tyres are skidding, you will loose control a bit more so you can drift a bit more easily :)",
+		 "Date": "14/02/2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenTireDamage.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/tirewear.png",
+		 "FileName": "RundenTireDamage.dll"
+     },
+              {
+		"Name": "Temperature Gauge Mod",
+		 "Version": "1.1",
+		 "Author": "Ghaleas, Runden",
+		 "Description": "Find-able temperature gauges. Now you'll know how hot a turbo Trabant can get! The gauges aren't precise but let's face it, it's 1979's soviet engineering.",
+		 "Date": "6/03/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Temperature Gauge Mod.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/temp_gauge.png",
+		 "FileName": "Temperature Gauge Mod.dll"
+     },
+            {
+		"Name": "Ducktail Spoiler for ladas",
+		 "Version": "1.06",
+		 "Author": "RUNDEN",
+		 "Description": "A little plastic ducktail spoiler for the boot lid of your ladas :)\nSupports 2101 and 2105\n1 in 2 chance of spawning!",
+		 "Date": "5/03/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RUNDEN_LADA_SPOILER.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/ducktail300.png",
+		 "FileName": "RUNDEN_LADA_SPOILER.dll"
+     },
+
+           {
+		"Name": "Turbo Mod",
+		 "Version": "1.6t",
+		 "Author": "RUNDEN",
+		 "Description": "Adds turbochargers as loot from buildings, which you can mount to any engine, and get a nice power boost! USE MANUAL, AUTO SHIFT DOESN'T REV ENOUGH.",
+		 "Date": "9/02/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Turbo.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/turbo.png",
+		 "FileName": "RUNDEN_TURBO.dll"
+     },
+	            {
+		"Name": "Iron Sights Mod",
+		 "Version": "1.0.2",
+		 "Author": "Lynnsie",
+		 "Description": "Lets you aim down the iron sights of the guns. Helps for more precise aiming. Use right click to aim with the iron sights.",
+		 "Date": "9/02/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/iron.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/iron.png",
+		 "FileName": "iron.dll"
+     },
+         {
+		"Name": "EngineTuner (NOT RECOMMENDED)",
+		 "Version": "1.3z",
+		 "Author": "ELS",
+		 "Description": "WARNING! THIS MOD MIGHT BREAK YOUR SAVE! MAKE A BACKUP! \nThis mod allows you to change the engine torque curve, max rpm, gear ratios, drivetype, suspension stiffness, tire grip, ride height, and much more! (F3) to open",
+		 "Date": "29/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/EngineTuner.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/tuner.png",
+		 "FileName": "EngineTuner.dll"
+     },
+       {
+		"Name": "TLD Toolset",
+		 "Version": "1.1",
+		 "Author": "ELS",
+		 "Description": "This mod allows you to look up, edit, and mess around with objects in the game, and their components! \n(Ctrl + Z) to open",
+		 "Date": "24/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/TLDToolset.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/toolset.png",
+		 "FileName": "TLDToolset.dll"
+     },
+       {
+		"Name": "Tachometers Mod",
+		 "Version": "1.1B",
+		 "Author": "RUNDEN",
+		 "Description": "Adds aftermarket tachometers you can find as loot, and mount to your car (almost) wherever you like!\nThere's 8 different tachometers to find, and two variations of each.",
+		 "Date": "26/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Tachometers Mod.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/tach.png",
+		 "FileName": "Tachometers Mod.dll"
+     },
+     {
+		"Name": "CarInfotainmentText",
+		 "Version": "1.0",
+		 "Author": "ELS",
+		 "Description": "This mod adds an in-game menu that shows various information about the car you're driving (see picture logo).\nnote: only works when in-car ofc\n(F2) to open",
+		 "Date": "24/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/CIT.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/CIT.png",
+		 "FileName": "CIT.dll"
+     },
+
+           {
+		"Name": "VAZ 2104 (Riva Estate)",
+		 "Version": "1.08",
+		 "Author": "RUNDEN",
+		 "Description": "This adds the estate version of the legendary lada 2105! This is lada model 2104. It has so much cargo space :)",
+		 "Date": "23/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/VAZ 2104 (Riva Estate).zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/vaz2104.png",
+		 "FileName": "VAZ 2104 (Riva Estate).dll"
+     },
+         {
+		"Name": "Improved Handbrakes",
+		 "Version": "1.2",
+		 "Author": "RUNDEN",
+		 "Description": "Fixes the handbrakes so they behave like real life.\nYou can now do handbrake turns!\nYou can enabled arcade style control in the pause menu.",
+		 "Date": "15/01/2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenHandbrake.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/betterhandbrake.png",
+		 "FileName": "RundenHandbrake.dll"
+     },
+	  {
+		"Name": "cum",
+		 "Version": "cum",
+		 "Author": "Locke",
+		 "Description": "Cum.\nMash the C button to cum.\n\nCars now run on cum",
+		 "Date": "6/90/69420",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/cum.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/cum.png",
+		 "FileName": "cum.dll"
+     },
+                 {
+		"Name": "Remove Rocks From Road",
+		 "Version": "1.4",
+		 "Author": "RUNDEN",
+		 "Description": "This mod removes all those annoying rocks that spawn on the road. No more crashing into a rock that just popped in!",
+		 "Date": "1/04/1969",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/NoRocksOnRoad.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/rocc_mod.png",
+		 "FileName": "NoRocksOnRoad.dll"
+     },
+               {
+		"Name": "Elon Musk",
+		 "Version": "1.0",
+		 "Author": "RUNDEN",
+		 "Description": "it's elon musk.\n\nDEL key spawns / removes musk\nRight-Shift makes him look at you\nAlt-Gr makes him follow you",
+		 "Date": "22/12/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/Elon Musk.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/musk_mod.png",
+		 "FileName": "Elon Musk.dll"
+     },
+             {
+		"Name": "Right-Hand-Drive Cars",
+		 "Version": "8.9",
+		 "Author": "RUNDEN",
+		 "Description": "Adds RHD (right hand drive) cars to the game! Some have 5 speed gearbox, tachometer slots, and other upgrades! The cars should spawn randomly as loot parked at buildings",
+		 "Date": "12/12/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RUNDEN_RHD.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/rhd_mod.png",
+		 "FileName": "RUNDEN_RHD.dll"
+     },
+           {
+		"Name": "MPH Mod",
+		 "Version": "1.1",
+		 "Author": "RUNDEN",
+		 "Description": "Changes all the guages in cars to read in MPH instead of KMH! Good for America and UK people lol.",
+		 "Date": "4/12/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RUNDEN_MPH_Mod.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/mph_mod.png",
+		 "FileName": "RUNDEN_MPH_Mod.zip"
+     },
+         {
+		"Name": "Playable Piano",
+		 "Version": "0.8",
+		 "Author": "RUNDEN",
+		 "Description": "Adds a piano as loot you can find!\n\nYou can press E on the keys to play it!\n(Press ESC to stop playing)",
+		 "Date": "1/12/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenPiano.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/piano.png",
+		 "FileName": "RundenPiano.dll"
+     },
+       {
+		"Name": "Mount Anywhere Mod",
+		 "Version": "1.24",
+		 "Author": "RUNDEN",
+		 "Description": "Lets you mount any part into any slot! Hold SHIFT and look at a slot while holding a part, then press F to force it to mount to that slot!",
+		 "Date": "27/11/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenMountAnywhere.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/mountanywhere.png",
+		 "FileName": "RundenMountAnywhere.dll"
+     },
+     {
+		"Name": "SpawnerTLD",
+		 "Version": "3.2",
+		 "Author": "_RainBowSheep_",
+		 "Description": "You can spawn cars anywhere \nFirst mod with GUI \n\"Distance driven\" must be over 1000km then mod start working \nShow/Hide - Insert",
+		 "Date": "13/08/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/SpawnerTLD.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/spawnertld.png",
+		 "FileName": "SpawnerTLD.dll"
+     },
+     {
+		 "Name": "RundenPhysicsGun",
+		 "Version": "1.7dt",
+		 "Author": "RUNDEN",
+		 "Description": "This is the REAL physics gun mod lol. \nFirst modloader mod that supports saving / loading! \nPhysics gun will spawn naturally as loot",
+		 "Date": "24/09/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/RundenPhysicsGun.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/rundenphysicsgun.png",
+		 "FileName": "RundenPhysicsGun.dll"
+     },
+	 {
+		 "Name": "BetterCrates",
+		 "Version": "0.8R",
+		 "Author": "_RainBowSheep_",
+		 "Description": "First mod with a complete replacement of the item. \nThis mod replaces all old crates on new crushable crates. You can find loot in the crates. \nSpawn Crate - Numpad 1",
+		 "Date": "28/08/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/BetterCrates.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/bettercrates.png",
+		 "FileName": "BetterCrates.dll"
+     },
+     {
+		 "Name": "Push Harder",
+		 "Version": "1.0",
+		 "Author": "KolbenLP",
+		 "Description": "You can basicly push your cars faster. \nPushing strengh is veri high now",
+		 "Date": "05/08/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/PushHarder.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/pushharder.png",
+		 "FileName": "PushHarder.dll"
+     },
+     {
+		 "Name": "FastPedal",
+		 "Version": "1.0",
+		 "Author": "KolbenLP",
+		 "Description": "With this mod you can pedal really fast with your bike xD (press shift for even faster pedalling)",
+		 "Date": "05/08/2020",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/mods/FASTPEDAL.dll",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/mods/pictures/fastpedal.png",
+		 "FileName": "FASTPEDAL.dll"
+     }
+
+   
+   ]
+}
