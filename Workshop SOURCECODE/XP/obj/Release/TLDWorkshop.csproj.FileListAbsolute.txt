@@ -1,0 +1,68 @@
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Release\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Release\Mono.Cecil.dll
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDWorkshop.csproj.CopyComplete
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Release\TLDWorkshop.csproj.ResolveComReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\bin\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\bin\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\bin\Release\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\bin\Release\Mono.Cecil.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDWorkshop.csproj.ResolveComReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDWorkshop.csproj.CopyComplete
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop 1.3.2022\XP\obj\Release\TLDWorkshop.csprojAssemblyReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\bin\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\bin\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\bin\Release\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\bin\Release\Mono.Cecil.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDWorkshop.csprojAssemblyReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDWorkshop.csproj.ResolveComReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDWorkshop.csproj.CopyComplete
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Backups\Workshop 1.3.2022 2\XP\obj\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\bin\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\bin\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\bin\Release\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\bin\Release\Mono.Cecil.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDWorkshop.csprojAssemblyReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDWorkshop.csproj.ResolveComReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDWorkshop.csproj.CopyComplete
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop\XP\obj\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDWorkshop.csproj.ResolveComReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\bin\Release\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\bin\Release\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\bin\Release\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\bin\Release\Mono.Cecil.dll
+C:\Users\kimsp\Desktop\ModLoader Development\Workshop1\XP\obj\Release\TLDWorkshop.csproj.CopyComplete

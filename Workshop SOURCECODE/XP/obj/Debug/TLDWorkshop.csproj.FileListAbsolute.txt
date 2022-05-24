@@ -1,0 +1,11 @@
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDWorkshop.csprojAssemblyReference.cache
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\XP.Form1.resources
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\XP.Properties.Resources.resources
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDWorkshop.csproj.GenerateResource.cache
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Debug\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Debug\Ionic.Zip.dll
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDWorkshop.csproj.CopyComplete
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDworkshop.exe
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\obj\Debug\TLDworkshop.pdb
+C:\Users\kimsp\Desktop\ModLoader Development\tldworkshop-4968834bff47810e399c57c2a87406b2ace37a05\XP\bin\Debug\TLDworkshop.pdb
