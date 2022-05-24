@@ -1,0 +1,45 @@
+
+{
+  "Mods": [
+         {
+		"Name": "All The Mods 1",
+		 "Version": "1.0",
+		 "Author": "KolbenLP",
+		 "Description": "First Modpack ever. \n You probably know the Minecraft Modpack All The Mods. Also this name is self explaining. \n Does it contain every mod? No, well almost. It contains almost every Workshop Mod",
+		 "Date": "2.1.2021",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/Modpacks/AllTheMods1.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/Modpacks/atm1.png",
+		 "FileName": "ATM.zip"
+     },
+	{
+		"Name": "Encolumned's Simplicity",
+		 "Version": "1.1",
+		 "Author": "Encolumned",
+		 "Description": "Bare bones car mods for enhancing what types of cars you can find. No items added, just QoL mods and Car Mods, such as:\n \n2104 and 2107 Lada Riva Estate by RUNDEN\nRHD Mod by RUNDEN \nAutomatic Transmissions by RUNDEN \nCaddyhitch by Serena\nIrakus Phys. Lock [NOT GUTTED] by Serena\nPhyslock for all Cars by Serena\n\nIf you have any issues with the modpack, please contact me on the discord through DMs, then I will try to contact the respective people depending on the issue.",
+		 "Date": "09.01.2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/Modpacks/ENkmh.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/Modpacks/ESkmh.png",
+		 "FileName": "ESkmh.zip"
+     },
+	{
+		"Name": "Hardcore Modpack",
+		 "Version": "1.0",
+		 "Author": "Maspunch",
+		 "Description": "A bunch of mods which make the game slightly harder and more interesting if you want some challenge \n \nSerenas Rims \nRundens Tire Damage\nRundens Automatic Autotragic \nRundens RHD \nRundens Lada Spoilers \nRundens Disable Loot Spawn \nRunden Breakable Rocks \nRundens AI \nRundens 2104 \nRundens 2107 Estate \nGhaleas Diesel Cars \nCoolgamers Exploding Cacti \n",
+		 "Date": "22.01.2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/Modpacks/hc.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/Modpacks/hc.png",
+		 "FileName": "HardcoreModpack.zip"
+     },
+	{
+		"Name": "TumpyNoodles Exquisite Extentions",
+		 "Version": "1.0",
+		 "Author": "Tumpy_Noodles",
+		 "Description": "--Everything You Need For a Good Time--\nWith NO Junk only Quality money back Guarantee™\n\nAn extensive list of nothing but quality mods including every Mod Car, Engines, and Gauges, and includes Rims, Turbos, Automatic & Rhd Cars. Along with quality of life such as Trabant-Rad, Caddy-Hitch, Fast-Pedal, Iron-Sights, Mount-Anywhere, and utillities like Carinfotainment, Spawner, WheelPosEditor, SaveFileClearOut, AutosaveInterval, and DisableLootRespawn. \n\nNote: this mod pack comes with a autosave interval of 240s (default 100s)\n\nControls:\nF2 -- Car Infotainment\nF6 -- AutoSave\nF8 -- AutoSave Interval\nF10 -- SaveFileClearOut\nInsert (with 1000km driven) -- Spawner\nScroll Lock -- WheelPosEditor",
+		 "Date": "11.02.2022",
+		 "Link": "ftp://admin@kolbenmc1.ddns.net/Modpacks/noodle.zip",
+		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/Modpacks/noodle.png",
+		 "FileName": "Noodle.zip"
+     }
+   ]
+}
