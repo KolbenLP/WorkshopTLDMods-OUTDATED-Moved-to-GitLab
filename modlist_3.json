@@ -211,7 +211,7 @@
 		 "FileName": "DropCamTweak.dll"
      },
      {
-		"Name": "Physics Lock for IFA",
+		"Name": "Physics Lock for Cargo IFA",
 		 "Version": "1.8",
 		 "Author": "Rostik",
 		 "Description": "Uses the basket's physics lock on the katona variant of the IFA. Items inside will stay in place now :)",
