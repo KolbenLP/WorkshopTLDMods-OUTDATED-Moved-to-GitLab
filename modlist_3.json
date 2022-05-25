@@ -1,7 +1,7 @@
 { 
   "Mods": [
 {
-		"Name": "Simple UI Gauge Mod",
+		"Name": "Simple GUI Gauge Mod",
 		 "Version": "1.0",
 		 "Author": "xspeedasx",
 		 "Description": "This mod adds an analog UI gauge, similar to BeamNG drive and other games.\nIt is only visible when player is sitting in a car (inside and exterior cameras)\n\n it was not tested in multiplayers, so keep expectations low \n\n* Left gauge is fuel (fluid in the tank), \n* Right is temperature (C is 50C/122F, H is 130C/266F)\n* Big gauge is RPM (it shows a little bit more than engine's max RPM capability)\n* The numbers are Speed (km/h) in the top and Gear in the bottom\n* Icons are: left - handbrake, right - lights",
