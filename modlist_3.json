@@ -302,16 +302,6 @@
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/turbo.png",
 		 "FileName": "RUNDEN_TURBO.dll"
      },
-	            {
-		"Name": "Iron Sights Mod",
-		 "Version": "1.0.2",
-		 "Author": "Lynnsie",
-		 "Description": "Lets you aim down the iron sights of the guns. Helps for more precise aiming. Use right click to aim with the iron sights.",
-		 "Date": "9/02/2021",
-		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/iron.dll",
-		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/iron.png",
-		 "FileName": "iron.dll"
-     },
          {
 		"Name": "EngineTuner (NOT RECOMMENDED)",
 		 "Version": "1.3z",
