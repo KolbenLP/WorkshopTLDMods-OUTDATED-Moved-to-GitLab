@@ -19,7 +19,8 @@
 		 "Date": "5/05/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/gauge.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/gauge.png",
-		 "FileName": "SimpleUIGaugeMod.dll"
+		 "FileName": "SimpleUIGaugeMod.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Electric Motors Mod ",
@@ -29,7 +30,8 @@
 		 "Date": "3/05/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/electric.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/electric.png",
-		 "FileName": "ElectricMotorMod.dll"
+		 "FileName": "ElectricMotorMod.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "BeanMG.drive Caravan Mod!",
@@ -39,7 +41,8 @@
 		 "Date": "3/05/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/caravan.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/caravan.png",
-		 "FileName": "BEAMNG_CARAVAN.dll"
+		 "FileName": "BEAMNG_CARAVAN.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "SpawnerTLD Pause Menu",
@@ -49,7 +52,8 @@
 		 "Date": "19/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/spawneresc.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/spawneresc.png",
-		 "FileName": "SpawnerTLD.dll"
+		 "FileName": "SpawnerTLD.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Eternal day time",
@@ -59,7 +63,8 @@
 		 "Date": "11/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/daycycle.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/daycycle.png",
-		 "FileName": "ETERNALDAY_ZORKIND.dll"
+		 "FileName": "ETERNALDAY_ZORKIND.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Diesel V8 Engine",
@@ -69,7 +74,8 @@
 		 "Date": "6/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/dieselv8.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/dieselv8.png",
-		 "FileName": "NICULL_DIESEL_V8.dll"
+		 "FileName": "NICULL_DIESEL_V8.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Hardcore Mod",
@@ -79,7 +85,8 @@
 		 "Date": "4/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/hc1.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/hc1.png",
-		 "FileName": "NICULL_HARDCORE_MOD.dll"
+		 "FileName": "NICULL_HARDCORE_MOD.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Spoilers for Golf",
@@ -89,7 +96,8 @@
 		 "Date": "4/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/golfsp.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/golfsp.png",
-		 "FileName": "NICULL_GOLFSPOILER_MOD.dll"
+		 "FileName": "NICULL_GOLFSPOILER_MOD.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Dacia 1300 Break",
@@ -99,7 +107,8 @@
 		 "Date": "24/02/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/daciabreak.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/daciabreak.png",
-		 "FileName": "Dacia1300Break.dll"
+		 "FileName": "Dacia1300Break.dll",
+		 "Category": "Test"
      },
 {
 		"Name": "Updated Iron sights Mod",
@@ -109,7 +118,8 @@
 		 "Date": "6/01/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/iron.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/iron.png",
-		 "FileName": "IRON_SIGHTS_MOD.dll"
+		 "FileName": "IRON_SIGHTS_MOD.dll",
+		 "Category": "Test"
      },
          {
 		"Name": "V8 Gas Engine",
@@ -119,7 +129,8 @@
 		 "Date": "6/01/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/V8_V1.2.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/v8.png",
-		 "FileName": "SERENA_V8ENGINE.dll"
+		 "FileName": "SERENA_V8ENGINE.dll",
+		 "Category": "Test"
      },
            {
 		"Name": "Extra foods mod",
@@ -129,7 +140,8 @@
 		 "Date": "5/11/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenExtraFoodMod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/foodmod.png",
-		 "FileName": "RundenExtraFoodMod.dll"
+		 "FileName": "RundenExtraFoodMod.dll",
+		 "Category": "Test"
      },
          {
 		"Name": "Exploding Cacti In TLD",
@@ -139,7 +151,8 @@
 		 "Date": "26/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/coolgamer553_exploding_cacti.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/excac.png",
-		 "FileName": "coolgamer553_exploding_cacti.dll"
+		 "FileName": "coolgamer553_exploding_cacti.dll",
+		 "Category": "Test"
      },
          {
 		"Name": "Custom AutoSave Interavall",
@@ -149,7 +162,8 @@
 		 "Date": "23/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/CustomAutosaveIntervall.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/quicksave.png",
-		 "FileName": "CustomAutosaveIntervall.dll"
+		 "FileName": "CustomAutosaveIntervall.dll",
+		 "Category": "Test"
      },
         {
 		"Name": "Additional Rims",
@@ -159,7 +173,8 @@
 		 "Date": "14/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Serenas_Additional_Rims_V1.2.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rims.png",
-		 "FileName": "SERENA_RIMS_MOD.dll"
+		 "FileName": "SERENA_RIMS_MOD.dll",
+		 "Category": "Test"
      },
       {
 		"Name": "Hyperzine 2.0",
@@ -169,7 +184,8 @@
 		 "Date": "11/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Hyperzine_2.0.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/hyperzine2.png",
-		 "FileName": "Hyperzine_2.0.dll"
+		 "FileName": "Hyperzine_2.0.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "Physlock For All Cars",
@@ -179,7 +195,8 @@
 		 "Date": "10/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_CARPHYSLOCK.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/allphyslock.png",
-		 "FileName": "SERENA_CARPHYSLOCK.dll"
+		 "FileName": "SERENA_CARPHYSLOCK.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "Gutted Ikarus",
@@ -189,7 +206,8 @@
 		 "Date": "03/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_GUTTED_IKARUS.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/guttedikarus.png",
-		 "FileName": "SERENA_GUTTED_IKARUS.dll"
+		 "FileName": "SERENA_GUTTED_IKARUS.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "Randomly Sized Baskets",
@@ -199,7 +217,8 @@
 		 "Date": "01/10/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_BASKET_RESIZE.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/baskets.png",
-		 "FileName": "SERENA_BASKET_RESIZE.dll"
+		 "FileName": "SERENA_BASKET_RESIZE.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "AI Traffic",
@@ -209,7 +228,8 @@
 		 "Date": "22/02/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_AI.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/traffic.png",
-		 "FileName": "RUNDEN_AI.dll"
+		 "FileName": "RUNDEN_AI.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "DropCamTweak",
@@ -219,7 +239,8 @@
 		 "Date": "13/06/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/DropCamTweak.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/dropcam.png",
-		 "FileName": "DropCamTweak.dll"
+		 "FileName": "DropCamTweak.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "Physics Lock for Cargo IFA",
@@ -229,7 +250,8 @@
 		 "Date": "22/07/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Rostik_Katona_Mod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rostik.png",
-		 "FileName": "Rostik_Katona_Mod.dll"
+		 "FileName": "Rostik_Katona_Mod.dll",
+		 "Category": "Test"
      },
                     {
 		"Name": "Random Horn",
@@ -239,7 +261,8 @@
 		 "Date": "21/04/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/GHALEAS_RANDOM_HORN.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/horny.png",
-		 "FileName": "GHALEAS_RANDOM_HORN.dll"
+		 "FileName": "GHALEAS_RANDOM_HORN.dll",
+		 "Category": "Test"
      },
                   {
 		"Name": "Diesel Swap Mod",
@@ -249,7 +272,8 @@
 		 "Date": "28/03/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Diesel_Cars_Mod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/diesel.png",
-		 "FileName": "Diesel_Cars_Mod.dll"
+		 "FileName": "Diesel_Cars_Mod.dll",
+		 "Category": "Test"
      },
               {
 		"Name": "Radiator slot for Trabant",
@@ -259,7 +283,8 @@
 		 "Date": "17/03/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDENtrabantRadiator.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/radtrab.png",
-		 "FileName": "RUNDENtrabantRadiator.dll"
+		 "FileName": "RUNDENtrabantRadiator.dll",
+		 "Category": "Test"
      },
 
               {
@@ -270,7 +295,8 @@
 		 "Date": "14/02/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenTireDamage.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tirewear.png",
-		 "FileName": "RundenTireDamage.dll"
+		 "FileName": "RundenTireDamage.dll",
+		 "Category": "Test"
      },
               {
 		"Name": "Temperature Gauge Mod",
@@ -280,7 +306,8 @@
 		 "Date": "6/03/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Temperature Gauge Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/temp_gauge.png",
-		 "FileName": "Temperature Gauge Mod.dll"
+		 "FileName": "Temperature Gauge Mod.dll",
+		 "Category": "Test"
      },
             {
 		"Name": "Ducktail Spoiler for ladas",
@@ -290,7 +317,8 @@
 		 "Date": "5/03/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_LADA_SPOILER.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/ducktail300.png",
-		 "FileName": "RUNDEN_LADA_SPOILER.dll"
+		 "FileName": "RUNDEN_LADA_SPOILER.dll",
+		 "Category": "Test"
      },
 
            {
@@ -301,7 +329,8 @@
 		 "Date": "9/02/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Turbo.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/turbo.png",
-		 "FileName": "RUNDEN_TURBO.dll"
+		 "FileName": "RUNDEN_TURBO.dll",
+		 "Category": "Test"
      },
          {
 		"Name": "EngineTuner (NOT RECOMMENDED)",
@@ -311,7 +340,8 @@
 		 "Date": "29/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/EngineTuner.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tuner.png",
-		 "FileName": "EngineTuner.dll"
+		 "FileName": "EngineTuner.dll",
+		 "Category": "Test"
      },
        {
 		"Name": "TLD Toolset",
@@ -321,7 +351,8 @@
 		 "Date": "24/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/TLDToolset.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/toolset.png",
-		 "FileName": "TLDToolset.dll"
+		 "FileName": "TLDToolset.dll",
+		 "Category": "Test"
      },
        {
 		"Name": "Tachometers Mod",
@@ -331,7 +362,8 @@
 		 "Date": "26/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Tachometers Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tach.png",
-		 "FileName": "Tachometers Mod.dll"
+		 "FileName": "Tachometers Mod.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "CarInfotainmentText",
@@ -341,7 +373,8 @@
 		 "Date": "24/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/CIT.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/CIT.png",
-		 "FileName": "CIT.dll"
+		 "FileName": "CIT.dll",
+		 "Category": "Test"
      },
 
            {
@@ -352,7 +385,8 @@
 		 "Date": "23/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/VAZ 2104 (Riva Estate).zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/vaz2104.png",
-		 "FileName": "VAZ 2104 (Riva Estate).dll"
+		 "FileName": "VAZ 2104 (Riva Estate).dll",
+		 "Category": "Test"
      },
          {
 		"Name": "Improved Handbrakes",
@@ -362,7 +396,8 @@
 		 "Date": "15/01/2021",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenHandbrake.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/betterhandbrake.png",
-		 "FileName": "RundenHandbrake.dll"
+		 "FileName": "RundenHandbrake.dll",
+		 "Category": "Test"
      },
 	  {
 		"Name": "cum",
@@ -372,7 +407,8 @@
 		 "Date": "6/90/69420",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/cum.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/cum.png",
-		 "FileName": "cum.dll"
+		 "FileName": "cum.dll",
+		 "Category": "Test"
      },
                  {
 		"Name": "Remove Rocks From Road",
@@ -382,7 +418,8 @@
 		 "Date": "1/04/1969",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/NoRocksOnRoad.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rocc_mod.png",
-		 "FileName": "NoRocksOnRoad.dll"
+		 "FileName": "NoRocksOnRoad.dll",
+		 "Category": "Test"
      },
                {
 		"Name": "Elon Musk",
@@ -392,7 +429,8 @@
 		 "Date": "22/12/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Elon Musk.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/musk_mod.png",
-		 "FileName": "Elon Musk.dll"
+		 "FileName": "Elon Musk.dll",
+		 "Category": "Test"
      },
              {
 		"Name": "Right-Hand-Drive Cars",
@@ -402,7 +440,8 @@
 		 "Date": "12/12/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_RHD.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rhd_mod.png",
-		 "FileName": "RUNDEN_RHD.dll"
+		 "FileName": "RUNDEN_RHD.dll",
+		 "Category": "Test"
      },
            {
 		"Name": "MPH Mod",
@@ -412,7 +451,8 @@
 		 "Date": "4/12/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_MPH_Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/mph_mod.png",
-		 "FileName": "RUNDEN_MPH_Mod.zip"
+		 "FileName": "RUNDEN_MPH_Mod.zip",
+		 "Category": "Test"
      },
          {
 		"Name": "Playable Piano",
@@ -422,7 +462,8 @@
 		 "Date": "1/12/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenPiano.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/piano.png",
-		 "FileName": "RundenPiano.dll"
+		 "FileName": "RundenPiano.dll",
+		 "Category": "Test"
      },
        {
 		"Name": "Mount Anywhere Mod",
@@ -432,7 +473,8 @@
 		 "Date": "27/11/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenMountAnywhere.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/mountanywhere.png",
-		 "FileName": "RundenMountAnywhere.dll"
+		 "FileName": "RundenMountAnywhere.dll",
+		 "Category": "Test"
      },
      {
 		"Name": "SpawnerTLD",
@@ -442,7 +484,8 @@
 		 "Date": "13/08/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SpawnerTLD.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/spawnertld.png",
-		 "FileName": "SpawnerTLD.dll"
+		 "FileName": "SpawnerTLD.dll",
+		 "Category": "Test"
      },
      {
 		 "Name": "RundenPhysicsGun",
@@ -452,7 +495,8 @@
 		 "Date": "24/09/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenPhysicsGun.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rundenphysicsgun.png",
-		 "FileName": "RundenPhysicsGun.dll"
+		 "FileName": "RundenPhysicsGun.dll",
+		 "Category": "Test"
      },
 	 {
 		 "Name": "BetterCrates",
@@ -462,7 +506,8 @@
 		 "Date": "28/08/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/BetterCrates.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/bettercrates.png",
-		 "FileName": "BetterCrates.dll"
+		 "FileName": "BetterCrates.dll",
+		 "Category": "Test3"
      },
      {
 		 "Name": "Push Harder",
@@ -472,7 +517,8 @@
 		 "Date": "05/08/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/PushHarder.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/pushharder.png",
-		 "FileName": "PushHarder.dll"
+		 "FileName": "PushHarder.dll",
+		 "Category": "Test2"
      },
      {
 		 "Name": "FastPedal",
@@ -482,7 +528,8 @@
 		 "Date": "05/08/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/FASTPEDAL.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/fastpedal.png",
-		 "FileName": "FASTPEDAL.dll"
+		 "FileName": "FASTPEDAL.dll",
+		 "Category": "Test2"
      }
 
    
