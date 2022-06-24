@@ -9,7 +9,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/NoSleepCooldown.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/NoSleepCooldown.png",
 		 "FileName": "NoSleepCooldown.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
 {
 		"Name": "Simple GUI Gauge Mod",
@@ -20,7 +20,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/gauge.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/gauge.png",
 		 "FileName": "SimpleUIGaugeMod.dll",
-		 "Category": "Test"
+		 "Category": "GUI"
      },
 {
 		"Name": "Electric Motors Mod ",
@@ -31,7 +31,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/electric.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/electric.png",
 		 "FileName": "ElectricMotorMod.dll",
-		 "Category": "Test"
+		 "Category": "Engines"
      },
 {
 		"Name": "BeanMG.drive Caravan Mod!",
@@ -42,7 +42,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/caravan.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/caravan.png",
 		 "FileName": "BEAMNG_CARAVAN.dll",
-		 "Category": "Test"
+		 "Category": "Cars"
      },
 {
 		"Name": "SpawnerTLD Pause Menu",
@@ -53,7 +53,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/spawneresc.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/spawneresc.png",
 		 "FileName": "SpawnerTLD.dll",
-		 "Category": "Test"
+		 "Category": "Cheats"
      },
 {
 		"Name": "Eternal day time",
@@ -64,7 +64,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/daycycle.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/daycycle.png",
 		 "FileName": "ETERNALDAY_ZORKIND.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
 {
 		"Name": "Diesel V8 Engine",
@@ -75,7 +75,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/dieselv8.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/dieselv8.png",
 		 "FileName": "NICULL_DIESEL_V8.dll",
-		 "Category": "Test"
+		 "Category": "Engines"
      },
 {
 		"Name": "Hardcore Mod",
@@ -86,7 +86,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/hc1.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/hc1.png",
 		 "FileName": "NICULL_HARDCORE_MOD.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
 {
 		"Name": "Spoilers for Golf",
@@ -97,7 +97,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/golfsp.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/golfsp.png",
 		 "FileName": "NICULL_GOLFSPOILER_MOD.dll",
-		 "Category": "Test"
+		 "Category": "Ites"
      },
 {
 		"Name": "Dacia 1300 Break",
@@ -108,7 +108,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/daciabreak.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/daciabreak.png",
 		 "FileName": "Dacia1300Break.dll",
-		 "Category": "Test"
+		 "Category": "Cars"
      },
 {
 		"Name": "Updated Iron sights Mod",
@@ -119,7 +119,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/iron.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/iron.png",
 		 "FileName": "IRON_SIGHTS_MOD.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
          {
 		"Name": "V8 Gas Engine",
@@ -130,7 +130,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/V8_V1.2.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/v8.png",
 		 "FileName": "SERENA_V8ENGINE.dll",
-		 "Category": "Test"
+		 "Category": "Engines"
      },
            {
 		"Name": "Extra foods mod",
@@ -141,7 +141,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenExtraFoodMod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/foodmod.png",
 		 "FileName": "RundenExtraFoodMod.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
          {
 		"Name": "Exploding Cacti In TLD",
@@ -152,7 +152,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/coolgamer553_exploding_cacti.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/excac.png",
 		 "FileName": "coolgamer553_exploding_cacti.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
          {
 		"Name": "Custom AutoSave Interavall",
@@ -163,7 +163,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/CustomAutosaveIntervall.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/quicksave.png",
 		 "FileName": "CustomAutosaveIntervall.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
         {
 		"Name": "Additional Rims",
@@ -174,7 +174,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Serenas_Additional_Rims_V1.2.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rims.png",
 		 "FileName": "SERENA_RIMS_MOD.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
       {
 		"Name": "Hyperzine 2.0",
@@ -185,7 +185,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Hyperzine_2.0.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/hyperzine2.png",
 		 "FileName": "Hyperzine_2.0.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
      {
 		"Name": "Physlock For All Cars",
@@ -196,7 +196,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_CARPHYSLOCK.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/allphyslock.png",
 		 "FileName": "SERENA_CARPHYSLOCK.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
      {
 		"Name": "Gutted Ikarus",
@@ -207,7 +207,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_GUTTED_IKARUS.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/guttedikarus.png",
 		 "FileName": "SERENA_GUTTED_IKARUS.dll",
-		 "Category": "Test"
+		 "Category": "Vehicles"
      },
      {
 		"Name": "Randomly Sized Baskets",
@@ -218,7 +218,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SERENA_BASKET_RESIZE.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/baskets.png",
 		 "FileName": "SERENA_BASKET_RESIZE.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
      {
 		"Name": "AI Traffic",
@@ -229,7 +229,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_AI.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/traffic.png",
 		 "FileName": "RUNDEN_AI.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
      {
 		"Name": "DropCamTweak",
@@ -240,7 +240,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/DropCamTweak.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/dropcam.png",
 		 "FileName": "DropCamTweak.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
      {
 		"Name": "Physics Lock for Cargo IFA",
@@ -251,7 +251,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Rostik_Katona_Mod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rostik.png",
 		 "FileName": "Rostik_Katona_Mod.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
                     {
 		"Name": "Random Horn",
@@ -262,7 +262,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/GHALEAS_RANDOM_HORN.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/horny.png",
 		 "FileName": "GHALEAS_RANDOM_HORN.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
                   {
 		"Name": "Diesel Swap Mod",
@@ -273,7 +273,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Diesel_Cars_Mod.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/diesel.png",
 		 "FileName": "Diesel_Cars_Mod.dll",
-		 "Category": "Test"
+		 "Category": "Engines"
      },
               {
 		"Name": "Radiator slot for Trabant",
@@ -284,7 +284,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDENtrabantRadiator.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/radtrab.png",
 		 "FileName": "RUNDENtrabantRadiator.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
 
               {
@@ -296,7 +296,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenTireDamage.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tirewear.png",
 		 "FileName": "RundenTireDamage.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
               {
 		"Name": "Temperature Gauge Mod",
@@ -307,7 +307,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Temperature Gauge Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/temp_gauge.png",
 		 "FileName": "Temperature Gauge Mod.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
             {
 		"Name": "Ducktail Spoiler for ladas",
@@ -318,7 +318,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_LADA_SPOILER.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/ducktail300.png",
 		 "FileName": "RUNDEN_LADA_SPOILER.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
 
            {
@@ -330,7 +330,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Turbo.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/turbo.png",
 		 "FileName": "RUNDEN_TURBO.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
          {
 		"Name": "EngineTuner (NOT RECOMMENDED)",
@@ -341,7 +341,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/EngineTuner.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tuner.png",
 		 "FileName": "EngineTuner.dll",
-		 "Category": "Test"
+		 "Category": "Cheats"
      },
        {
 		"Name": "TLD Toolset",
@@ -352,7 +352,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/TLDToolset.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/toolset.png",
 		 "FileName": "TLDToolset.dll",
-		 "Category": "Test"
+		 "Category": "Cheats"
      },
        {
 		"Name": "Tachometers Mod",
@@ -363,7 +363,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Tachometers Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/tach.png",
 		 "FileName": "Tachometers Mod.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
      {
 		"Name": "CarInfotainmentText",
@@ -374,7 +374,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/CIT.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/CIT.png",
 		 "FileName": "CIT.dll",
-		 "Category": "Test"
+		 "Category": "GUI"
      },
 
            {
@@ -386,7 +386,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/VAZ 2104 (Riva Estate).zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/vaz2104.png",
 		 "FileName": "VAZ 2104 (Riva Estate).dll",
-		 "Category": "Test"
+		 "Category": "Cars"
      },
          {
 		"Name": "Improved Handbrakes",
@@ -397,7 +397,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenHandbrake.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/betterhandbrake.png",
 		 "FileName": "RundenHandbrake.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
 	  {
 		"Name": "cum",
@@ -408,7 +408,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/cum.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/cum.png",
 		 "FileName": "cum.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
                  {
 		"Name": "Remove Rocks From Road",
@@ -419,7 +419,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/NoRocksOnRoad.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rocc_mod.png",
 		 "FileName": "NoRocksOnRoad.dll",
-		 "Category": "Test"
+		 "Category": "Gameplay"
      },
                {
 		"Name": "Elon Musk",
@@ -430,7 +430,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Elon Musk.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/musk_mod.png",
 		 "FileName": "Elon Musk.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
              {
 		"Name": "Right-Hand-Drive Cars",
@@ -441,7 +441,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_RHD.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rhd_mod.png",
 		 "FileName": "RUNDEN_RHD.dll",
-		 "Category": "Test"
+		 "Category": "Cars"
      },
            {
 		"Name": "MPH Mod",
@@ -452,7 +452,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_MPH_Mod.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/mph_mod.png",
 		 "FileName": "RUNDEN_MPH_Mod.zip",
-		 "Category": "Test"
+		 "Category": "Various"
      },
          {
 		"Name": "Playable Piano",
@@ -463,7 +463,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenPiano.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/piano.png",
 		 "FileName": "RundenPiano.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
        {
 		"Name": "Mount Anywhere Mod",
@@ -474,7 +474,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenMountAnywhere.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/mountanywhere.png",
 		 "FileName": "RundenMountAnywhere.dll",
-		 "Category": "Test"
+		 "Category": "Various"
      },
      {
 		"Name": "SpawnerTLD",
@@ -485,7 +485,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/SpawnerTLD.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/spawnertld.png",
 		 "FileName": "SpawnerTLD.dll",
-		 "Category": "Test"
+		 "Category": "Cheats"
      },
      {
 		 "Name": "RundenPhysicsGun",
@@ -496,7 +496,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenPhysicsGun.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/rundenphysicsgun.png",
 		 "FileName": "RundenPhysicsGun.dll",
-		 "Category": "Test"
+		 "Category": "Items"
      },
 	 {
 		 "Name": "BetterCrates",
@@ -507,7 +507,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/BetterCrates.zip",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/bettercrates.png",
 		 "FileName": "BetterCrates.dll",
-		 "Category": "Test3"
+		 "Category": "Gameplay"
      },
      {
 		 "Name": "Push Harder",
@@ -518,7 +518,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/PushHarder.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/pushharder.png",
 		 "FileName": "PushHarder.dll",
-		 "Category": "Test2"
+		 "Category": "Gameplay"
      },
      {
 		 "Name": "FastPedal",
@@ -529,7 +529,7 @@
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/FASTPEDAL.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/fastpedal.png",
 		 "FileName": "FASTPEDAL.dll",
-		 "Category": "Test2"
+		 "Category": "Gameplay"
      }
 
    
