@@ -467,9 +467,9 @@
      },
        {
 		"Name": "Mount Anywhere Mod",
-		 "Version": "1.24",
-		 "Author": "RUNDEN",
-		 "Description": "Lets you mount any part into any slot! Hold SHIFT and look at a slot while holding a part, then press F to force it to mount to that slot!",
+		 "Version": "1.3",
+		 "Author": "RUNDEN, Ghaleas",
+		 "Description": "Mount anywhere mod has been altered to function again after the most recent update, however the behavior is now slightly different, to mount items in different slots, hold F and let the bar fill and then drain completely, then release F again.\n\nCredits go to Ghaleas for the fix, credits for the original mod go to Runden",
 		 "Date": "27/11/2020",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RundenMountAnywhere.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/mountanywhere.png",
