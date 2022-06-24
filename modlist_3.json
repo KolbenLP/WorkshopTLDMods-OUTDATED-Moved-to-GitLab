@@ -42,9 +42,9 @@
      },
 {
 		"Name": "SpawnerTLD Pause Menu",
-		 "Version": "4.5",
+		 "Version": "5.1",
 		 "Author": "FreakShow",
-		 "Description": "You can spawn cars anywhere \nFirst mod with GUI \n\"Distance driven\" must be over 1000km then mod start working\n\nShows up in the ESC Menu",
+		 "Description": "You can spawn cars anywhere \nFirst mod with GUI \n\"Distance driven\" must be over 1000km then mod start working\n\nShows up in the ESC Menu\nAlso, in Dev tools you can enable  to delete objects....",
 		 "Date": "19/03/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/spawneresc.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/spawneresc.png",
