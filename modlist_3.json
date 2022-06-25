@@ -1,6 +1,17 @@
 { 
   "Mods": [
 {
+		"Name": "Custom Radio Song Skip",
+		 "Version": "1.0",
+		 "Author": "FreakShow",
+		 "Description": "Look at a Radio  or Dashboard  = Press PageUp / PageDown",
+		 "Date": "25/06/2022",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/skip.dll",
+		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/skip.png",
+		 "FileName": "skip.dll",
+		 "Category": "Gameplay"
+     },
+{
 		"Name": "No SleepCooldown",
 		 "Version": "1.0",
 		 "Author": "KolbenLP",
