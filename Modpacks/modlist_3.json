@@ -6,8 +6,8 @@
 		 "Author": "Nicull",
 		 "Description": "Adds every single mod that enhances the vanilla experience, it does not include Rundens A.I or the RHD cars (since they dont make much sense in the game)\n\nThe best way to play the game!\n\n-Adds diesel engines and a new V8\n-New cars\n-New rims\n-Physics lock for all cars\n-tire wear\n-turbo\n-plate edit\n-Spoilers for lada and golf\n-Fuel, temperature and RPM gauges\n-Caddy towhitch\n-Physical ignition switch for all cars\n-Breakable crates\n-Fuel consumption mod\n-Realistic Handbrake\n-Mount anywhere\n-Automatic transmissions\n-And the gutted ikarus mod \n\n1.2 Changelog:\n-Removed Serenas physlock mod since it caused a few issues\n-Updated all mods\n\nKnown bugs:\nTire wear mod causes your starting car to not have any grip. Just save and load when you start a new game to fix this.\n\n-Use manual only, main menu automatic transmission/clutch break one of the mods",
 		 "Date": "23.4.2022",
-		 "Link": "ftp://admin@kolbenmc1.ddns.net/Modpacks/vanillaen.zip",
-		 "PictureLink": "ftp://admin@kolbenmc1.ddns.net/Modpacks/vanillaen.png",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Modpacks/vanillaen.zip",
+		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Modpacks/vanillaen.png",
 		 "FileName": "ENHANCED_VANILLA_NICULL.zip"
      },
 	{
