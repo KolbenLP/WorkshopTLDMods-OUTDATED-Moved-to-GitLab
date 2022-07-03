@@ -1,5 +1,15 @@
 {
   "Mods": [
+ {
+		"Name": "DEVTESTMODPACK",
+		 "Version": "0.0",
+		 "Author": "KolbenLP",
+		 "Description": "DONT MIND ME this wont work for ya. Dont click download. Just ignore for now",
+		 "Date": "yes",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/Modpacks/sameple.txt",
+		 "PictureLink": "",
+		 "FileName": "samplepack.txt"
+     },
   {
 		"Name": "Enhanced Vanilla",
 		 "Version": "1.4.7",
