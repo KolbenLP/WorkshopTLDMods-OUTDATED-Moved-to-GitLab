@@ -1,6 +1,28 @@
 { 
   "Mods": [
 {
+		"Name": "NoDevConsoleMULTIPLAYER ONLY",
+		 "Version": "1.0",
+		 "Author": "RUNDEN",
+		 "Description": "simple mod which tries it's absolute best to hide the development console for when you're on the multiplayer build",
+		 "Date": "05/07/2022",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDENnoconsole.dll",
+		 "PictureLink": "",
+		 "FileName": "RUNDENnoconsole.dll",
+		 "Category": "Gameplay"
+     },
+{
+		"Name": "Cruise Control for all Cars",
+		 "Version": "1.0",
+		 "Author": "FreakShow",
+		 "Description": "Early release of  commonly  requested  Cruise Control.\nPress  ENTER  to set  the Cruise.",
+		 "Date": "05/07/2022",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/cruise.dll",
+		 "PictureLink": "",
+		 "FileName": "cruise.dll",
+		 "Category": "Gameplay"
+     },
+{
 		"Name": "Custom Radio Song Skip",
 		 "Version": "1.0",
 		 "Author": "FreakShow",
