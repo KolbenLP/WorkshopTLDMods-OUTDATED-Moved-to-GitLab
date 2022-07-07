@@ -1,6 +1,17 @@
 { 
   "Mods": [
 {
+		"Name": "Snowman Mod",
+		 "Version": "1.0",
+		 "Author": "RUNDEN",
+		 "Description": " - This mod brings back the original snowmen which the game used to have in the winter areas in the Christmas 2019 update, long long ago\n- Their functionality has been replicated to be as accurate as possible to the original snowmen in that old version of the game, but bought into this latest version :)\n- The snowmen should spawn in winter biomes in mixed mode, but most fun can be had by switching to Winter biome in the menu.\n- Snowmen are inaninmate objects and will never pose a threat to you and, in fact, cannot harm you in any way.\n- These snowmen are normal snowmen and are not in any way evil nor planning and/or plotting to murder you.",
+		 "Date": "07/07/2022",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_Snowman.dll",
+		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/RUNDEN_snowman.png",
+		 "FileName": "RUNDEN_Snowman.dll",
+		 "Category": "Gameplay"
+     },
+{
 		"Name": "NoDevConsoleMULTIPLAYER ONLY",
 		 "Version": "1.0",
 		 "Author": "RUNDEN",
