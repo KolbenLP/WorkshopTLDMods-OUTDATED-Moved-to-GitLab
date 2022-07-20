@@ -1,5 +1,16 @@
 { 
   "Mods": [
+	  {
+		"Name": "???????????",
+		 "Version": "???",
+		 "Author": "?????",
+		 "Description": "MYSTERY MOD! WHAT COULD IT BE? \n\nPlease don't spoil it to everyone else with screenshot when you find what this mod is in the game ;) \n\nThe real name of this mod will be revealed in a few days",
+		 "Date": "??/??/????",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/RUNDEN_Zombie.dll",
+		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/RUNDEN_Zombie.png",
+		 "FileName": "RUNDEN_Zombie.dll",
+		 "Category": "???"
+     },
 {
 		"Name": "Snowman Mod",
 		 "Version": "1.0",
