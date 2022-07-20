@@ -1,11 +1,11 @@
 { 
   "Mods": [
 	  {
-		"Name": "?NoUFO",
-		 "Version": "1.0",
+		"Name": "NoUFO",
+		 "Version": "0.1",
 		 "Author": "Encolumned",
-		 "Description": "MYSTERY MOD! WHAT COULD IT BE? \n\nPlease don't spoil it to everyone else with screenshot when you find what this mod is in the game ;) \n\nThe real name of this mod will be revealed in a few days",
-		 "Date": "??/??/????",
+		 "Description": "You ever want to just relax on the side of the road? Not live in fear of a sudden presence of a large green light moving over you while being stranded and out of gas? Want to sleep knowing you won't be struck harder than an atomic bomb by a circular red flying disc that swoops down like an eagle and rapidly eats your progress away like a desert vulture? Do you hate when your radio is cut off and interrupted? Ever find the level of interruption annoying, or just too loud? Are you satisfied with the sounds of peace and quiet? The wind whirring as you drive your car, clean or not, down a finite, deserted, asphalt-covered treasure trove? The faint lyrics to 'My Baby Has a White Škoda as you sleep in the bed of a nice, comfortable bunker? The audible arguments between the hosts of SteelPants Radio and Neon Synth playing over the radio?\n\nWELL BOY CAN THESE 2 LINES OF CODE BE POWERFUL\nIt is rather self explanatory. \nCurrently no future plans unless the mod unsuspectingly breaks or does not work.\n\n- - - - -\nChangelog:\n0.1: Release\n- - - - -\nCredits:\nFreakShow - helping during creation\n(1 contributor has chosen to remain anonymous, respectfully) ",
+		 "Date": "20/07/2022",
 		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/NoUFO.dll",
 		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/NoUFO.png",
 		 "FileName": "NoUFO.dll",
