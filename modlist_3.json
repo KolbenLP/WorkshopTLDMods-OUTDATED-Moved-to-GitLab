@@ -1,6 +1,17 @@
 { 
   "Mods": [
 	  {
+		"Name": "?NoUFO",
+		 "Version": "1.0",
+		 "Author": "Encolumned",
+		 "Description": "MYSTERY MOD! WHAT COULD IT BE? \n\nPlease don't spoil it to everyone else with screenshot when you find what this mod is in the game ;) \n\nThe real name of this mod will be revealed in a few days",
+		 "Date": "??/??/????",
+		 "Link": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/NoUFO.dll",
+		 "PictureLink": "https://github.com/KolbenLP/WorkshopTLDMods/raw/main/pictures/NoUFO.png",
+		 "FileName": "NoUFO.dll",
+		 "Category": "Gameplay"
+     },
+	  {
 		"Name": "???????????",
 		 "Version": "???",
 		 "Author": "?????",
